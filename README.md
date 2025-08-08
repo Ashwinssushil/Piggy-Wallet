@@ -15,12 +15,12 @@ A modern, intuitive personal finance tracker built with Flutter. Keep track of y
 
 ## 📱 Screenshots
 
-<img width="194" height="408" alt="1" src="https://github.com/user-attachments/assets/e2d67118-8b4a-4a5e-ad2c-47a46f7e2f0f" />
-<img width="194" height="408" alt="2" src="https://github.com/user-attachments/assets/31bf78f8-9719-45db-99f0-f0c52f65615d" />
-<img width="194" height="408" alt="3" src="https://github.com/user-attachments/assets/84cf5384-e7f7-4e96-b7d6-c797f595cd49" />
-<img width="194" height="408" alt="4" src="https://github.com/user-attachments/assets/6dda9db9-f74a-4018-bc31-77d850d6dfde" />
-<img width="194" height="408" alt="5" src="https://github.com/user-attachments/assets/79a0d81a-8f6f-4e54-ba6f-4845ff143d8a" />
-<img width="194" height="408" alt="6" src="https://github.com/user-attachments/assets/16d0fbe3-8bf9-4106-8117-72c54bf41aee" />
+<img width="194" height="408" alt="1" src="https://github.com/user-attachments/assets/1408b935-2710-4e57-b146-94f1a2d2ef8f" />
+<img width="194" height="408" alt="2" src="https://github.com/user-attachments/assets/4e391344-727a-4567-9345-defc1bf21bdb" />
+<img width="194" height="408" alt="3" src="https://github.com/user-attachments/assets/d32c5b8f-aed0-4c72-a921-de49aaac4955" />
+<img width="194" height="408" alt="4" src="https://github.com/user-attachments/assets/a6a635e5-9727-4e2d-8e02-9336079f88b0" />
+<img width="194" height="408" alt="5" src="https://github.com/user-attachments/assets/567582d5-7552-4bcb-8578-e51627badc0c" />
+<img width="194" height="408" alt="6" src="https://github.com/user-attachments/assets/ee7a21e5-a000-4943-8195-73af8304e567" />
 
 ## 🚀 Getting Started
 

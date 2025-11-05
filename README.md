@@ -1,103 +1,107 @@
-Piggy 🐷 — Android Flutter App
-A Flutter-based Android application for effortless personal finance management.
-Easily track your income and expenses, manage daily transactions, and view your balance in a clean and modern interface.
+# Piggy 🐷 — Android Flutter App
 
-📱 App Versions
-🧾 Piggy_v1.0.0
-💰 Basic wallet functionality
+### A Flutter-based Android application for effortless personal finance management
+**Track income, expenses, and manage daily transactions with a clean, modern interface**
 
-➕ Add, view, and delete transactions
+---
 
-🔢 Real-time balance calculation
+## 📱 App Versions
 
-🌙 Dark theme UI
+### 🧾 Piggy v1.0.0 - Basic Edition
+- Add, view, and delete transactions
+- Real-time balance calculation
+- Dark theme UI
+- Local storage using SQLite
+- Export financial data
 
-🗃️ Local storage using SQLite
+### 🔐 Piggy v1.0.1 - Secure Edition
+- Secure authentication system (Login/Signup)
+- Enhanced and modern user interface
+- Additional data security features
+- Improved transaction management
+- Advanced customization and settings
 
-📤 Export financial data
+## 🚀 Key Features
 
-🔐 Piggy_v1.0.1
-🔑 Secure authentication system (Login/Signup)
+| Feature | Description |
+|---------|-------------|
+| 💰 **Transaction Management** | Add, view, edit, and delete financial records |
+| 📊 **Balance Tracking** | Real-time balance updates |
+| 🔐 **Authentication** | Secure login and session management (v1.0.1) |
+| 🌙 **Dark Theme** | Elegant, modern UI design |
+| 📱 **Offline Ready** | Works fully without internet |
+| 📤 **Data Export** | Export transaction records instantly |
+| ⚡ **Optimized** | Smooth Android experience |
 
-✨ Enhanced and modern user interface
+## 🛠️ Tech Stack
 
-🛡️ Additional data security features
+| Technology | Purpose |
+|------------|----------|
+| **Flutter** | Cross-platform UI framework |
+| **Dart** | Core programming language |
+| **SQLite** | Local database for offline storage |
+| **Material Design** | Clean and modern UI components |
 
-💾 Improved transaction management and data persistence
+## 📥 Installation
 
-⚙️ Advanced customization and settings
+### 📱 Quick Install (Recommended)
 
-🚀 Features
-Transaction Management — Add, view, edit, and delete your financial records
+1. Download the APK from the [Releases](../../releases) section:
+   - `Piggy_v1.0.0.apk` (Basic Edition)
+   - `Piggy_v1.0.1.apk` (Secure Edition)
 
-Balance Tracking — Real-time balance updates
+2. Install on your Android device
 
-Authentication (v1.0.1) — Secure login and user session management
+### 🛠️ Development Setup
 
-Dark Theme UI — Elegant, modern, and easy on the eyes
+#### Prerequisites
+- Flutter SDK (latest stable)
+- Dart SDK
+- Android Studio or VS Code
+- Android device/emulator
+- Git
 
-Offline Functionality — Works fully without internet
+#### Installation Steps
 
-Data Export — Export transaction records with a single tap
-
-Optimized for Android — Smooth and stable app experience
-
-🛠️ Technologies Used
-Technology	Purpose
-Flutter	Cross-platform UI framework
-Dart	Core programming language
-SQLite	Local database for offline storage
-Material Design	Clean and modern UI style
-⚙️ Getting Started
-
-📱 Android Installation (Recommended)
-Download and install the APK directly from this repository:
-
-Apps > `Piggy_v1.0.0.apk` or `Piggy_v1.0.1.apk`
-
-1. Download the APK file to your Android device
-
-🛠️ Development Setup
-✅ Prerequisites
-For developers who want to build from source:
-
-Flutter SDK
-
-Dart SDK
-
-Android Studio or VS Code
-
-Android device or emulator
-
-Git installed
-
-🧩 Installation Steps
-Clone this repository
-
+```bash
+# Clone the repository
 git clone https://github.com/Ashwinssushil/Piggy-wallet.git
 cd Piggy-wallet
-Navigate to desired version
 
-# For version 1.0.0
-cd Piggy_v1.0.0
+# Navigate to desired version
+cd Piggy_v1.0.0  # or Piggy_v1.0.1
 
-# OR for version 1.0.1
-cd Piggy_v1.0.1
-Install dependencies
-
+# Install dependencies
 flutter pub get
-Run the application
 
+# Run the app
 flutter run
-🖼️ Screenshots
-Screenshots will be added soon!
-Stay tuned for UI previews of the app.
+```
 
-👨💻 Author
-Email: mailto:u337744@gmail.com
-GitHub: @Ashwinssushil
+## 🖼️ Screenshots
 
-📞 Support
-If you have any questions or need help, please open an issue in this repository.
+> Screenshots coming soon! Stay tuned for UI previews.
 
-⭐ Star this repository if you found it helpful!
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+**Ashwin S Sushil**
+- 📧 Email: [u337744@gmail.com](mailto:u337744@gmail.com)
+- 🐙 GitHub: [@Ashwinssushil](https://github.com/Ashwinssushil)
+
+## 📞 Support
+
+Have questions or need help? [Open an issue](../../issues) in this repository.
+
+---
+
+**⭐ Star this repository if you found it helpful!**
+
+**Made with ❤️ using Flutter**

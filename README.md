@@ -1,163 +1,104 @@
-# Piggy Wallet - Flutter Personal Finance App
+Piggy 🐷 — Android Flutter App
+A Flutter-based Android application for effortless personal finance management.
+Easily track your income and expenses, manage daily transactions, and view your balance in a clean and modern interface.
 
-A comprehensive Flutter application for personal finance management with transaction tracking, authentication, and data visualization.
+📱 App Versions
+🧾 Piggy_v1.0.0
+💰 Basic wallet functionality
 
-## 📱 App Versions
+➕ Add, view, and delete transactions
 
-This repository contains two versions of the Piggy Wallet app:
+🔢 Real-time balance calculation
 
-### Piggy_v1.0.0
-- Basic wallet functionality
-- Transaction management (add, view, delete)
-- Balance calculation
-- Dark theme UI
-- Local database storage with SQLite
-- Export functionality
+🌙 Dark theme UI
 
-### Piggy_v1.0.1
-- Enhanced authentication system
-- Improved user interface
-- Additional security features
-- Extended transaction management
-- Better data persistence
-- Enhanced settings and customization
+🗃️ Local storage using SQLite
 
-## 🚀 Features
+📤 Export financial data
 
-- **Transaction Management**: Add, view, edit, and delete financial transactions
-- **Balance Tracking**: Real-time balance calculation and display
-- **Authentication**: Secure login system (v1.0.1)
-- **Dark Theme**: Modern dark UI design
-- **Data Export**: Export transaction data
-- **Cross-Platform**: Runs on Android, iOS, Web, Windows, macOS, and Linux
-- **Local Storage**: SQLite database for offline functionality
+🔐 Piggy_v1.0.1
+🔑 Secure authentication system (Login/Signup)
 
-## 🛠️ Technologies Used
+✨ Enhanced and modern user interface
 
-- **Flutter**: Cross-platform mobile development framework
-- **Dart**: Programming language
-- **SQLite**: Local database storage
-- **Material Design**: UI components and theming
+🛡️ Additional data security features
 
-## 📦 Dependencies
+💾 Improved transaction management and data persistence
 
-Key packages used in the project:
-- `sqflite`: SQLite database
-- `intl`: Internationalization and date formatting
-- `file_picker`: File selection functionality
-- `printing`: PDF generation and printing
-- `path_provider`: File system paths
+⚙️ Advanced customization and settings
 
-## 🏗️ Project Structure
+🚀 Features
+Transaction Management — Add, view, edit, and delete your financial records
 
-```
-Piggy-wallet/
-├── Piggy_v1.0.0/          # Version 1.0.0
-│   ├── lib/
-│   │   ├── main.dart       # Main application entry
-│   │   ├── database.dart   # Database helper
-│   │   └── settings.dart   # Settings screen
-│   ├── android/            # Android platform files
-│   ├── ios/               # iOS platform files
-│   ├── web/               # Web platform files
-│   └── pubspec.yaml       # Dependencies
-│
-├── Piggy_v1.0.1/          # Version 1.0.1
-│   ├── lib/
-│   │   ├── main.dart       # Main application entry
-│   │   ├── home.dart       # Home screen
-│   │   ├── login.dart      # Authentication
-│   │   ├── database.dart   # Enhanced database
-│   │   ├── auth_service.dart # Authentication service
-│   │   └── settings.dart   # Enhanced settings
-│   └── ...                # Platform files
-│
-└── README.md              # This file
-```
+Balance Tracking — Real-time balance updates
 
-## 🚀 Getting Started
+Authentication (v1.0.1) — Secure login and user session management
 
-### Prerequisites
-- Flutter SDK (latest stable version)
-- Dart SDK
-- Android Studio / VS Code
-- Git
+Dark Theme UI — Elegant, modern, and easy on the eyes
 
-### Installation
+Offline Functionality — Works fully without internet
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Ashwinssushil/Piggy-wallet.git
-   cd Piggy-wallet
-   ```
+Data Export — Export transaction records with a single tap
 
-2. **Choose a version to run**
-   ```bash
-   # For version 1.0.0
-   cd Piggy_v1.0.0
-   
-   # OR for version 1.0.1
-   cd Piggy_v1.0.1
-   ```
+Optimized for Android — Smooth and stable app experience
 
-3. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
+🛠️ Technologies Used
+Technology	Purpose
+Flutter	Cross-platform UI framework
+Dart	Core programming language
+SQLite	Local database for offline storage
+Material Design	Clean and modern UI style
+⚙️ Getting Started
 
-4. **Run the app**
-   ```bash
-   flutter run
-   ```
+📱 Android Installation (Recommended)
+Download and install the APK directly from this repository:
 
-### Building for Production
+Apps > `Piggy_v1.0.0.apk` or `Piggy_v1.0.1.apk`
 
-```bash
-# Android APK
-flutter build apk --release
+1. Download the APK file to your Android device
 
-# iOS (requires macOS and Xcode)
-flutter build ios --release
+🛠️ Development Setup
+✅ Prerequisites
+For developers who want to build from source:
 
-# Web
-flutter build web --release
+Flutter SDK
 
-# Windows (requires Windows)
-flutter build windows --release
-```
+Dart SDK
 
-## 📱 Screenshots
+Android Studio or VS Code
 
-*Screenshots will be added soon*
+Android device or emulator
 
-## 🤝 Contributing
+Git installed
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+🧩 Installation Steps
+Clone this repository
 
-## 📄 License
+git clone https://github.com/Ashwinssushil/Piggy-wallet.git
+cd Piggy-wallet
+Navigate to desired version
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# For version 1.0.0
+cd Piggy_v1.0.0
 
-## 👨‍💻 Author
+# OR for version 1.0.1
+cd Piggy_v1.0.1
+Install dependencies
 
-**Ashwin S Sushil**
-- GitHub: [@Ashwinssushil](https://github.com/Ashwinssushil)
+flutter pub get
+Run the application
 
-## 🙏 Acknowledgments
+flutter run
+🖼️ Screenshots
+Screenshots will be added soon!
+Stay tuned for UI previews of the app.
 
-- Flutter team for the amazing framework
-- Material Design for UI guidelines
-- SQLite for reliable local storage
-- All contributors and testers
+👨‍💻 Author
+Email: mailto:u337744@gmail.com
+GitHub: @Ashwinssushil
 
-## 📞 Support
-
+📞 Support
 If you have any questions or need help, please open an issue in this repository.
 
----
-
 ⭐ Star this repository if you found it helpful!
+from tis add installation in android also the apps will be in the folder Apps and in this folder two versions will be thre PIggy_v1.0.0 and Piggy_v1.0.1

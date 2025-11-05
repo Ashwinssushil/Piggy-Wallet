@@ -65,12 +65,14 @@
 # Clone the repository
 git clone https://github.com/Ashwinssushil/Piggy-wallet.git
 cd Piggy-wallet
-
+```
+```bash
 # Navigate to desired version
 cd Piggy_v1.0.0  
 # or 
 cd Piggy_v1.0.1
-
+```
+```bash
 # Install dependencies
 flutter pub get
 

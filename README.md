@@ -23,13 +23,13 @@
 
 ## 🚀 Key Features
 
-- 💰 **Transaction Management** — Add, view, edit, and delete financial records
-- 📊 **Balance Tracking** — Real-time balance updates
-- 🔐 **Authentication** — Secure login and session management (v1.0.1)
-- 🌙 **Dark Theme** — Elegant, modern UI design
-- 📱 **Offline Ready** — Works fully without internet
-- 📤 **Data Export** — Export transaction records instantly
-- ⚡ **Optimized** — Smooth Android experience
+- **Transaction Management** — Add, view, edit, and delete financial records
+- **Balance Tracking** — Real-time balance updates
+- **Authentication** — Secure login and session management (v1.0.1)
+- **Dark Theme** — Elegant, modern UI design
+- **Offline Ready** — Works fully without internet
+- **Data Export** — Export transaction records instantly
+- **Optimized** — Smooth Android experience
 
 ## 🛠️ Tech Stack
 

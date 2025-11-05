@@ -34,7 +34,7 @@ Easily track your income and expenses, manage daily transactions, and view your 
 - **Data Export** — Export transaction records with a single tap  
 - **Optimized for Android** — Smooth and stable app experience  
 
----
+
 
 ## 🛠️ Technologies Used
 

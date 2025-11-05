@@ -1,5 +1,4 @@
-# Piggy Wallet - Flutter Personal Finance App
-
+# Piggy-Wallet App 🐷
 A comprehensive Flutter application for personal finance management with transaction tracking, authentication, and data visualization.
 
 ## 📱 App Versions

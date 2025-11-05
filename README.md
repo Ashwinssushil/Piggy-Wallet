@@ -93,7 +93,7 @@ flutter run
 Screenshots will be added soon!
 Stay tuned for UI previews of the app.
 
-👨‍💻 Author
+👨💻 Author
 Email: mailto:u337744@gmail.com
 GitHub: @Ashwinssushil
 
@@ -101,4 +101,3 @@ GitHub: @Ashwinssushil
 If you have any questions or need help, please open an issue in this repository.
 
 ⭐ Star this repository if you found it helpful!
-from tis add installation in android also the apps will be in the folder Apps and in this folder two versions will be thre PIggy_v1.0.0 and Piggy_v1.0.1

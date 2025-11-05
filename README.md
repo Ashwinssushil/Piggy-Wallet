@@ -51,9 +51,9 @@ Easily track your income and expenses, manage daily transactions, and view your 
 
 ### ✅ Prerequisites
 Before running the app, make sure you have:
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- [Dart SDK](https://dart.dev/get-dart)
-- [Android Studio](https://developer.android.com/studio) or VS Code  
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code  
 - Android device or emulator  
 - Git installed  
 
@@ -97,17 +97,13 @@ Stay tuned for UI previews of the app.
 
 ## 👨‍💻 Author
 
-**Ashwin S Sushil**
-💼 Cybersecurity Enthusiast & Flutter Developer
-📧 Email: ashwinssushil@gmail.com
-🌐 GitHub: [@Ashwinssushil](https://github.com/Ashwinssushil)
+Email: u337744@gmail.com
+GitHub: [@Ashwinssushil](https://github.com/Ashwinssushil)
 
----
 
 ## 📞 Support
 
 If you have any questions or need help, please open an issue in this repository.
 
----
 
 ⭐ Star this repository if you found it helpful!

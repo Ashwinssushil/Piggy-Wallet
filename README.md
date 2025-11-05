@@ -69,7 +69,9 @@ git clone https://github.com/Ashwinssushil/Piggy-wallet.git
 cd Piggy-wallet
 
 # Navigate to desired version
-cd Piggy_v1.0.0  # or Piggy_v1.0.1
+cd Piggy_v1.0.0  
+# or 
+cd Piggy_v1.0.1
 
 # Install dependencies
 flutter pub get
@@ -81,14 +83,6 @@ flutter run
 ## 🖼️ Screenshots
 
 > Screenshots coming soon! Stay tuned for UI previews.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 

@@ -3,13 +3,7 @@
 A **Flutter-based Android application** for effortless personal finance management.  
 Easily track your income and expenses, manage daily transactions, and view your balance in a clean and modern interface.  
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.1-blue)
 
----
 
 ## 📱 App Versions
 
@@ -71,3 +65,49 @@ Before running the app, make sure you have:
    ```bash
    git clone https://github.com/Ashwinssushil/Piggy-wallet.git
    cd Piggy-wallet
+   ```
+
+2. **Navigate to desired version**
+   ```bash
+   # For version 1.0.0
+   cd Piggy_v1.0.0
+
+   # OR for version 1.0.1
+   cd Piggy_v1.0.1
+   ```
+
+3. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Run the application**
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 🖼️ Screenshots
+
+Screenshots will be added soon!
+Stay tuned for UI previews of the app.
+
+---
+
+## 👨‍💻 Author
+
+**Ashwin S Sushil**
+💼 Cybersecurity Enthusiast & Flutter Developer
+📧 Email: ashwinssushil@gmail.com
+🌐 GitHub: [@Ashwinssushil](https://github.com/Ashwinssushil)
+
+---
+
+## 📞 Support
+
+If you have any questions or need help, please open an issue in this repository.
+
+---
+
+⭐ Star this repository if you found it helpful!

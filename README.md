@@ -86,7 +86,6 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Ashwin S Sushil**
 - 📧 Email: [u337744@gmail.com](mailto:u337744@gmail.com)
 - 🐙 GitHub: [@Ashwinssushil](https://github.com/Ashwinssushil)
 

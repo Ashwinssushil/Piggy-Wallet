@@ -21,15 +21,22 @@
 - Improved transaction management
 - Advanced customization and settings
 
+### 🧬 Piggy v1.0.2 – Biometric Edition (Latest)
+- Fingerprint biometric authentication  
+- Enable / Disable biometric login from settings  
+- Secure app access using device-level biometrics  
+- Fallback to PIN / password when biometrics are disabled  
+- Improved security flow and session handling  
+- All features from previous versions included    
+
 ## 🚀 Key Features
 
-- **Transaction Management** — Add, view, edit, and delete financial records
-- **Balance Tracking** — Real-time balance updates
-- **Authentication** — Secure login and session management (v1.0.1)
-- **Dark Theme** — Elegant, modern UI design
-- **Offline Ready** — Works fully without internet
-- **Data Export** — Export transaction records instantly
-- **Optimized** — Smooth Android experience
+- **Transaction Management** — Add, view, edit, and delete financial records  
+- **Balance Tracking** — Real-time balance updates  
+- **Dark Theme** — Elegant, modern UI design  
+- **Offline Ready** — Works fully without internet  
+- **Data Export** — Export transaction records instantly  
+- **Optimized** — Smooth and responsive Android experience 
 
 ## 🛠️ Tech Stack
 
@@ -38,6 +45,7 @@
 | **Flutter** | Cross-platform UI framework |
 | **Dart** | Core programming language |
 | **SQLite** | Local database for offline storage |
+| **Biometric API** | Fingerprint authentication |
 | **Material Design** | Clean and modern UI components |
 
 ## 📥 Installation
@@ -47,8 +55,10 @@
 1. Download the APK from the [Releases](../../releases) section:
    - `Piggy_v1.0.0.apk` (Basic Edition)
    - `Piggy_v1.0.1.apk` (Secure Edition)
+   - `Piggy_v1.0.2.apk` (Biometric Edition)
 
 2. Install on your Android device
+3. Enable **Fingerprint Permission** on first launch (v1.0.2)
 
 ### 🛠️ Development Setup
 
@@ -68,9 +78,11 @@ cd Piggy-wallet
 ```
 ```bash
 # Navigate to desired version
-cd Piggy_v1.0.0  
-# or 
+cd Piggy_v1.0.2
+# or
 cd Piggy_v1.0.1
+# or
+cd Piggy_v1.0.0
 ```
 ```bash
 # Install dependencies

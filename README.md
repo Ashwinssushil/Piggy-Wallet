@@ -3,7 +3,7 @@
 ### A Flutter-based Android application for effortless personal finance management
 **Track income, expenses, and manage daily transactions with a clean, modern interface**
 
----
+--- 
 
 ## 📱 App Versions
 

@@ -115,5 +115,3 @@ Have questions or need help? [Open an issue](../../issues) in this repository.
 ---
 
 **⭐ Star this repository if you found it helpful!**
-
-**Made with ❤️ using Flutter**

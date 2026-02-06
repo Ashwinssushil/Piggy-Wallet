@@ -21,7 +21,7 @@
 - Improved transaction management
 - Advanced customization and settings
 
-### 🧬 Piggy v1.0.2 – Biometric Edition (Latest)
+### 🧬 Piggy v1.0.2 – Biometric Edition
 - Fingerprint biometric authentication  
 - Enable / Disable biometric login from settings  
 - Secure app access using device-level biometrics  

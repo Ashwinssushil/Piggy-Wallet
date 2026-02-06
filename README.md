@@ -9,7 +9,7 @@
 
 ### 🧾 Piggy v1.0.0 - Basic Edition
 - Add, view, and delete transactions
-- Real-time balance calculation
+- Real-time balance calculation 
 - Dark theme UI
 - Local storage using SQLite
 - Export financial data
